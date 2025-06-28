@@ -1,0 +1,25 @@
+#-- SYSTEM UTILITIES --
+curl
+wget
+git
+vim
+htop
+tree
+unzip
+zip
+software-properties-common
+
+#-- DEVELOPMENT TOOLS --
+build-essential
+ca-certificates
+gnupg
+lsb-release
+
+#-- APPLICATIONS --
+flameshot
+
+#-- MULTIMEDIA --
+vlc
+
+#-- SYSTEM MONITORING --
+neofetch

@@ -1,0 +1,9 @@
+#-- APPLICATION --
+obsidian --classic
+discord
+
+
+#-- PROGRAMMING --
+intellij-idea-ultimate --classic
+datagrip --classic
+redisinsight
