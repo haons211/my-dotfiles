@@ -83,8 +83,6 @@ main() {
             # Core system setup
             run_script "$SCRIPTS_DIR/setup_linux.sh" "Core system packages installation"
             
-            # Programming environment setup
-            run_script "$SCRIPTS_DIR/setup_environment.sh" "Programming environment setup (Java, Node.js, Python)"
             
             # Snap packages installation
             run_script "$SCRIPTS_DIR/setup_snap.sh" "Snap packages installation"
