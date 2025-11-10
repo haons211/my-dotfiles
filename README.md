@@ -2,7 +2,7 @@
 aa aaa qqqq
 An automated setup system for configuring a complete development environment on Linux systems.
 aaaa
-aa
+aaaa
 ## 🚀 Features
 
 This automation script will install and configure:
